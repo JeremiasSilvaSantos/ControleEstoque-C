@@ -1,13 +1,13 @@
-# 📦 StockFlow-C — Sistema de Controle de Estoque
+# StockFlow-C — Sistema de Controle de Estoque
 
 Aplicação em linguagem C para gestão eficiente de estoque, cadastro, movimentação e análise financeira de itens, com persistência de dados em arquivo texto.
 
-## 👤 Autoria
+## Autoria
 * **Desenvolvedor:** Jeremias Silva Santos
 
 ---
 
-## ✨ Funcionalidades do Sistema
+## Funcionalidades do Sistema
 
 O sistema conta com um menu interativo completo com 13 operações:
 
@@ -27,7 +27,7 @@ O sistema conta com um menu interativo completo com 13 operações:
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 StockFlow-C/
@@ -41,7 +41,7 @@ StockFlow-C/
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 ### Pré-requisitos
 Certifique-se de ter um compilador C instalado (como **GCC**, **Clang** ou **MinGW**).
