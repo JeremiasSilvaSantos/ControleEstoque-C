@@ -1,14 +1,3 @@
-/*
- * ============================================================================
- * Projeto: StockFlow-C - Sistema de Controle de Estoque
- * Autor: Jeremias Silva Santos
- * Disciplina: Algoritmo e Pensamento Computacional
- * Descricao: Sistema completo em linguagem C para gerenciamento de estoque,
- *            com operacoes CRUD, relatorios financeiros, ordenacao e
- *            persistencia de dados em arquivo texto.
- * ============================================================================
- */
-
 #include <stdio.h>
 #include <string.h>
 
